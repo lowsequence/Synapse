@@ -23,8 +23,8 @@ SynapseBot is a multi-purpose Discord bot built using `discord.py`. It offers a 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Synapseweee.git
-   cd Synapseweee
+   git clone https://github.com/lowsequence/Synapse.git
+   cd Synapse
    ```
 
 2. **Install dependencies:**
