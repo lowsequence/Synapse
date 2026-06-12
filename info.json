@@ -1,0 +1,22 @@
+{
+    "OWNER_IDS": [
+        1357225761312079962,
+        1368989570816802886,
+        1287859210436087930,
+        190487452949938176,
+        1113016552623722497
+    ],
+    "TOKEN": "",
+    "BotName": "Synapse",
+    "serverLink": "https://discord.gg/fzunQAvyd3",
+    "wh_cl": "",
+    "wh_bl": "",
+    "statusText": "Testing",
+    "np_webhook": "",
+    "EXTENSIONS": [
+        "cogs.events"
+    ],
+    "np": [
+        1363485611679416532
+    ]
+}
