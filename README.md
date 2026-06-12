@@ -47,7 +47,6 @@ SynapseBot is a multi-purpose Discord bot built using `discord.py`. It offers a 
 ## Technologies Used
 
 - [discord.py](https://github.com/Rapptz/discord.py) - API Wrapper
-- [Wavelink](https://github.com/PythonistaGuild/Wavelink) - Lavalink client
 - [aiosqlite](https://github.com/omnilib/aiosqlite) - Asynchronous SQLite
 - [Jishaku](https://github.com/Gorialis/jishaku) - Debugging and cog management
 
